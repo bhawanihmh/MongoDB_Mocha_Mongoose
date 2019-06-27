@@ -8,3 +8,6 @@ Example of MongoDB, Mocha and Mongoose in Node.
 4. use command to add mocha , mongoose and nodemon in package,json file: npm install mocha mongoose nodemon
 5. run test cases using command: npm run test
 
+Reference Links: 
+Mocha : https://mochajs.org/#installation
+Mongoose : https://mongoosejs.com/docs/guide.html
