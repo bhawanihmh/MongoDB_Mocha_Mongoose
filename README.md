@@ -8,10 +8,17 @@ Example of MongoDB, Mocha and Mongoose in Node.
 4. use command to add mocha , mongoose and nodemon in package,json file: npm install mocha mongoose nodemon
 5. run test cases using command: npm run test
 
-Reference Links: <br/>
-Mocha : https://mochajs.org/#installation <br/>
-Mongoose : https://mongoosejs.com/docs/guide.html <br/>
-Robo 3T: https://robomongo.org/ <br/>
+# Reference Links: <br/>
+## MongoDB : https://www.mongodb.com/ <br/>
+MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud era. No database is more productive to use. <br/>
+### Documentation: https://docs.mongodb.com/manual/introduction/ <br/>
+## Mocha : https://mochajs.org/#installation <br/>
+Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases. <br/>
+## Mongoose : https://mongoosejs.com/docs/guide.html <br/>
+Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It manages relationships between data, provides schema validation, and is used to translate between objects in code and the representation of those objects in MongoDB. <br/>
+## Robo 3T: https://robomongo.org/ <br/>
+Robo 3T (formerly Robomongo) is the free lightweight GUI for MongoDB enthusiasts. <br/>
+GUI for MongoDB with embedded shell <br/>
 ## Nodemon <br/> 
 https://nodemon.io/ <br/> 
 
