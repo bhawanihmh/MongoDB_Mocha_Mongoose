@@ -1,7 +1,7 @@
 # MongoDB_Mocha_Mongoose
 Example of MongoDB, Mocha and Mongoose in Node.
 
-##Steps:
+## Steps:
 1. Install MongoDB
 2. Add bin in path : C:\Program Files\MongoDB\Server\4.0\bin
 3. run command : mongo
@@ -10,7 +10,7 @@ Example of MongoDB, Mocha and Mongoose in Node.
 
 # Reference Links: <br/>
 ## MongoDB : https://www.mongodb.com/ <br/>
-MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud era. No database is more productive to use. <br/>
+MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud era. <br/>
 ### Documentation: https://docs.mongodb.com/manual/introduction/ <br/>
 ## Mocha : https://mochajs.org/#installation <br/>
 Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases. <br/>
